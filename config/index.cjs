@@ -19,6 +19,8 @@ const USER_CONFIG = {
       name: '最爱的咕咕',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'f1e7c2a2b6044a1a96dc863d8c3ee7c0',
+      // 使用微信测试号：你想对他发送的模板消息的模板ID
+      useTemplateId: '0001',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '07-10',
       festivals: [
