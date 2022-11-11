@@ -9,9 +9,15 @@ const USER_CONFIG = {
   
   // 请将以下代码按照图示粘贴到对应位置
   USE_PASSAGE: 'push-plus',
+  
+    // 使用微信测试号：公众号APP_ID
+  APP_ID: '',
+
+  // 使用微信测试号：公众号APP_SECRET
+  APP_SECRET: '',
 
   PROVINCE: '广东',
-  CITY: '广州增城',
+  CITY: '广州',
 
   USERS: [
     {
